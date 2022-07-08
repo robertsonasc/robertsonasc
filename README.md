@@ -1,6 +1,7 @@
 ### E ai pessoal, Robertson aqui, isso mesmo, o mesmo nome do lateral do Liverpool lá ⚽
 Porém, aqui no meu GitHub você só vai encontrar alguns códigos dahorinhas que faço ao longo desses 5 anos que venho mexendo com programação.
-### Desenvolvimento Mobile? Curto hein, atualmente está sendo a área que estou estudando mais para já começar a estagiar/trabalhar 📱📚😃
+ #### Cursando 7º Período em Engenharia de Software pela Universidade Federal do Ceará 🎓
+### Desenvolvimento Mobile? Curto hein, atualmente está sendo a área que estou estudando mais para começar a estagiar/trabalhar, especificamente eu já criei alguns apps em Java, mas agora estou focando em Flutter 📱📚😃
 <div align="center">
   <a href="https://github.com/robertsonasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertsonasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
