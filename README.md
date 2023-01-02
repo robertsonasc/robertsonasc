@@ -1,7 +1,7 @@
 ### E ai pessoal, Robertson aqui, isso mesmo, o mesmo nome do lateral do Liverpool lá ⚽
 Porém, aqui no meu GitHub você só vai encontrar alguns códigos dahorinhas que faço ao longo desses 5 anos que venho mexendo com programação.
  ### Cursando 10º Período em Engenharia de Software pela Universidade Federal do Ceará 🎓
-#### Desenvolvimento Web? Curto hein, atualmente está sendo a área que estou estudando mais para começar a estagiar/trabalhar. Especificamente, eu já criei alguns sites (front-end e back-end) que sempre gosto de compartilhar aqui no meu GitHub (pelo menos os que são open source 😉). Agora estou focando em Vue.js para front, e Node.js com Strapi para back 💻📱📚😃
+Desenvolvimento Web? Curto hein, atualmente está sendo a área que estou estudando mais para começar a estagiar/trabalhar. Especificamente, eu já criei alguns sites (front-end e back-end) que sempre gosto de compartilhar aqui no meu GitHub (pelo menos os que são open source 😉). Agora estou focando em Vue.js para front, e Node.js com Strapi para back 💻📱📚😃
 <div align="center">
   <a href="https://github.com/robertsonasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertsonasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
