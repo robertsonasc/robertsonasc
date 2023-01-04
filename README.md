@@ -4,7 +4,7 @@ Porém, aqui no meu GitHub você só vai encontrar alguns códigos dahorinhas qu
 Desenvolvimento Web? Curto hein, atualmente está sendo a área que estou estudando mais para começar a estagiar/trabalhar. Especificamente, eu já criei alguns sites (front-end e back-end) que sempre gosto de compartilhar aqui no meu GitHub (pelo menos os que são open source 😉). Agora estou focando em Vue.js para front, e Node.js com Strapi para back 💻📱📚😃
 <div align="center">
   <a href="https://github.com/robertsonasc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertsonasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertsonasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsonasc&layout=compact&theme=chartreuse-dark"/>
 </div>
 
